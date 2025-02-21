@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{99036048-1602-4eb4-942c-c67e104d8960}">
+		<property name="name">
+			<value>walk_run</value>
+		</property>
+		<relationship name="folder">
+			<destination>{890a02f2-cc45-47b9-b5f9-59ea0bc7efa0}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{ab9f4078-a8eb-4bf0-991d-177c169ccd2c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{ab9f4078-a8eb-4bf0-991d-177c169ccd2c}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="isHeld">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{f0e0002f-2431-46ee-aa26-3f575f5a1c63}">
+		<property name="assetPath">
+			<value>Footsteps_Tile/Footsteps_Tile_Jump/Footsteps_Tile_Jump_Land_01.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bd63b25c-df89-4f2d-b77f-9ccda073fa76}</destination>
+		</relationship>
+	</object>
+</objects>

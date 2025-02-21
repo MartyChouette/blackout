@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{cdfaa0f2-5528-4969-a3ee-ae2d5f6e5ff3}">
+		<property name="assetPath">
+			<value>Footsteps_Grass/Foley_Grass/Footsteps_Grass_Tall_Movement_09.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bd63b25c-df89-4f2d-b77f-9ccda073fa76}</destination>
+		</relationship>
+	</object>
+</objects>

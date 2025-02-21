@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{bab64793-1312-4acd-a7c0-35b96c2e6dc9}">
+		<property name="assetPath">
+			<value>Footsteps_Water/Footsteps_Water_Jump/Footsteps_Water_Jump_Light_01.wav.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bd63b25c-df89-4f2d-b77f-9ccda073fa76}</destination>
+		</relationship>
+	</object>
+</objects>
