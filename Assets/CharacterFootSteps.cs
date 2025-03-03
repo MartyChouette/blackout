@@ -58,7 +58,7 @@ public class CharacterFootSteps : MonoBehaviour
 
         isGrounded = IsGrounded();
 
-        isMovingForward = Mathf.Abs(rb.linearVelocity.x) > 0.1f;
+        isMovingForward = Mathf.Abs(rb.linearVelocity.x) > 0.01f;
         
         
         if (isMovingForward && Time.time >= nextStepTime && isGrounded)
@@ -89,7 +89,7 @@ public class CharacterFootSteps : MonoBehaviour
     private void StopFootstep()
     {
         isPlayingSound = false;
-        footstepInstance.stop(FMOD.Studio.STOP_MODE.ALLOWFADEOUT);
+        footstepInstance.stop(FMOD.Studio.STOP_MODE.IMMEDIATE);
     }
 
     private void MaterialCheck()

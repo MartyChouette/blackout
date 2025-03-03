@@ -1,3 +1,5 @@
+using FMOD.Studio;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class CharacterController2D : MonoBehaviour
@@ -27,6 +29,8 @@ public class CharacterController2D : MonoBehaviour
     private float lastGroundedTime;
     private float lastJumpPressedTime;
     private bool facingRight = true; // Track facing direction
+
+    private EventInstance headBumpInstance;
 
     private void Awake()
     {
@@ -111,6 +115,7 @@ public class CharacterController2D : MonoBehaviour
             spriteRenderer.flipX = true;
         }
     }
+
 
  
 }
