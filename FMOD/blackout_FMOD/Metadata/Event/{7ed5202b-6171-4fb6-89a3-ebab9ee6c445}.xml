@@ -702,6 +702,10 @@
 		<property name="start">
 			<value>10</value>
 		</property>
+		<property name="name" />
+		<property name="volume">
+			<value>-7.5</value>
+		</property>
 		<property name="looping">
 			<value>true</value>
 		</property>

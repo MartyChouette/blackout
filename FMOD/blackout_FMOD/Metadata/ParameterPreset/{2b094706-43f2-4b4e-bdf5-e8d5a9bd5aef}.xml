@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{2b094706-43f2-4b4e-bdf5-e8d5a9bd5aef}">
+		<property name="name">
+			<value>church_vol</value>
+		</property>
+		<relationship name="folder">
+			<destination>{890a02f2-cc45-47b9-b5f9-59ea0bc7efa0}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{94586d1a-30cc-4401-b16c-36b44b0ce443}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{94586d1a-30cc-4401-b16c-36b44b0ce443}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

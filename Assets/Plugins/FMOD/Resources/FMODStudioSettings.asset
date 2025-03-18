@@ -561,8 +561,24 @@ MonoBehaviour:
   MasterBanks:
   - Master
   Banks:
+  - bump
+  - chime
+  - ELDER1
+  - ELDER2
+  - ELDER3
+  - Fall
+  - headbump
+  - Jump
+  - Land
   - Music
+  - MUSIC2
+  - MUSIC3
   - SFX
+  - SPOKEN
+  - SpokenEnd
+  - Wind_1
+  - Wind_2
+  - Wind_3
   BanksToLoad: []
   LiveUpdatePort: 9264
   EnableMemoryTracking: 0

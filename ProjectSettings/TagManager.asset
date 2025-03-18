@@ -16,6 +16,9 @@ TagManager:
   - snow
   - water
   - wood
+  - Church1
+  - Church2
+  - Church3
   layers:
   - Default
   - TransparentFX
