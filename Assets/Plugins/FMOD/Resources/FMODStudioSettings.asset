@@ -576,6 +576,9 @@ MonoBehaviour:
   - SFX
   - SPOKEN
   - SpokenEnd
+  - welcome1
+  - welcome2
+  - welcome3
   - Wind_1
   - Wind_2
   - Wind_3
