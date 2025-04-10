@@ -28,18 +28,15 @@
 
 Illustrate your game prototype with a few screenshots. This section is vital to give visitors a visual taste of your project.
 
-### Screenshot 1: Main Menu
-![Main Menu](./path/to/screenshot1.png)
+### Screenshot 1: Primary Friction Point Of Sightless Navigation
+![Primary Friction Point Of Sightless Navigation](./Screenshots/Screenshot3.png)
 
-### Screenshot 2: Gameplay Scene
-![Gameplay](./path/to/screenshot2.png)
-
+### Screenshot 2: Level Overview
+![Level Overview](./Screenshots/Screenshot2.png)
 
 ---
 
 ## Controls
-
-List the controls for your game. You can divide this section based on different input methods if applicable.
 
 ### Keyboard Controls
 - **A / Left Arrow:** Move Left
