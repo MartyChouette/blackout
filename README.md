@@ -19,7 +19,7 @@
 - **Genre:** 2D Platformer Prototype
 - **Story:** A messenger journeys from their home church to a neighboring church using audio clues for navigation
 - **Objective:** To get to the far church of Compensatia
-- **Key Features:** This game is an audio based 2D navigation experience, this means jumping is required to progress, as is using surface audio feedback and character sounds for feedback.
+- **Key Features:** This game is an audio based 2D navigation experience, this means jumping is required to progress, as is using surface audio feedback and character sounds for navigation.
 
 ---
 
