@@ -25,8 +25,6 @@
 
 ## Screenshots
 
-Illustrate your game prototype with a few screenshots. This section is vital to give visitors a visual taste of your project.
-
 ### Screenshot 1: Primary Friction Point Of Sightless Navigation
 ![Primary Friction Point Of Sightless Navigation](./Screenshots/Screenshot3.png)
 
