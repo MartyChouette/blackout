@@ -10,7 +10,7 @@
 - [Overview](#overview)
 - [Screenshots](#screenshots)
 - [Controls](#controls)
-- [Design Notes](#design-notes)
+<!--- [Design Notes](#design-notes)-->
 - [Installation](#installation)
 
 ---
