@@ -9,8 +9,7 @@
 
 - [Overview](#overview)
 - [Screenshots](#screenshots)
-- [Controls](#controls)
-<!--- [Design Notes](#design-notes)-->
+- [Controls](#controls)<!--- [Design Notes](#design-notes)-->
 - [Installation](#installation)
 
 ---
