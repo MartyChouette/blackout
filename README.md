@@ -46,7 +46,7 @@ Illustrate your game prototype with a few screenshots. This section is vital to 
 - **O / TurnOff BlackOut overlay:** 
 
 ---
-
+<!--
 ## Design Notes
 
 Include additional details that provide insight into your design and development decisions. This might include:
@@ -56,7 +56,7 @@ Include additional details that provide insight into your design and development
 - **Challenges Faced:** Any noteworthy hurdles during development and how you approached them.
 - **Future Plans:** Ideas or planned features for subsequent iterations of the game prototype.
 ---
-
+-->
 ## Installation
 
 Run Build From Builds Folder
